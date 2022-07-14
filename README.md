@@ -13,6 +13,11 @@
 
 ## Installation
 
+Install NeoVim
+```
+<your_package_manager> install neovim
+```
+
 Make a nvim config dir and put the `init.vim` file inside
 ```
 mkdir ~/.config/nvim
